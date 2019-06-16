@@ -4,3 +4,9 @@ __pycache__/
 *.mp4
 *.weights
 *.avi
+pytorch_yolo*
+FgSegNet*
+*.model
+*.h5
+instance_norm*
+my_upsampl*
