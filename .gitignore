@@ -10,3 +10,6 @@ FgSegNet*
 *.h5
 instance_norm*
 my_upsampl*
+sort/data
+sort/requirements.txt
+sort/output
